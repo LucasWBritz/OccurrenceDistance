@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/OcurrenceDistance/obj
+/src/OcurrenceDistance/bin/Debug/netcoreapp2.1
+/src/Test/obj
+/src/Test/bin/Debug/netcoreapp2.1
+/src/.vs/OcurrenceDistance/v15/Server/sqlite3
+/src/.vs/OcurrenceDistance/v15/Server/sqlite3/storage.ide-wal
+/src/.vs/OcurrenceDistance/v15/Server/sqlite3/storage.ide-shm
+/src/.vs/OcurrenceDistance/v15/Server/sqlite3/storage.ide
+/src/.vs/OcurrenceDistance/v15/Server/sqlite3/db.lock
